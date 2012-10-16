@@ -1,0 +1,9 @@
+{
+  "name": "qmljs_runtime",
+  "repo": "jmars/qmljs_runtime",
+  "description": "Runtime for QMLJS.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {}
+}
